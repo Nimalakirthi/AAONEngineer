@@ -40,3 +40,17 @@ C:\Users\Nimal\source\repos\AAON\AAONEngineer\pjReheat\obj\x86\Debug\pjReheat.Re
 C:\Users\Nimal\source\repos\AAON\AAONEngineer\pjReheat\obj\x86\Debug\pjReheat.vbproj.GenerateResource.cache
 C:\Users\Nimal\source\repos\AAON\AAONEngineer\pjReheat\obj\x86\Debug\pjReheat.vbproj.CoreCompileInputs.cache
 C:\Users\Nimal\source\repos\AAON\AAONEngineer\pjReheat\obj\x86\Debug\pjReheat.vbproj.CopyComplete
+C:\Users\Nimal\source\repos\AAONEngineer\pjReheat\bin\x86\Debug\pjReheat.dll
+C:\Users\Nimal\source\repos\AAONEngineer\pjReheat\bin\x86\Debug\pjReheat.pdb
+C:\Users\Nimal\source\repos\AAONEngineer\pjReheat\bin\x86\Debug\pjReheat.xml
+C:\Users\Nimal\source\repos\AAONEngineer\pjReheat\bin\x86\Debug\pjRefProp.dll
+C:\Users\Nimal\source\repos\AAONEngineer\pjReheat\bin\x86\Debug\pjRefProp.pdb
+C:\Users\Nimal\source\repos\AAONEngineer\pjReheat\bin\x86\Debug\pjRefProp.xml
+C:\Users\Nimal\source\repos\AAONEngineer\pjReheat\obj\x86\Debug\pjReheat.vbproj.AssemblyReference.cache
+C:\Users\Nimal\source\repos\AAONEngineer\pjReheat\obj\x86\Debug\pjReheat.Resources.resources
+C:\Users\Nimal\source\repos\AAONEngineer\pjReheat\obj\x86\Debug\pjReheat.vbproj.GenerateResource.cache
+C:\Users\Nimal\source\repos\AAONEngineer\pjReheat\obj\x86\Debug\pjReheat.vbproj.CoreCompileInputs.cache
+C:\Users\Nimal\source\repos\AAONEngineer\pjReheat\obj\x86\Debug\pjReheat.vbproj.CopyComplete
+C:\Users\Nimal\source\repos\AAONEngineer\pjReheat\obj\x86\Debug\pjReheat.dll
+C:\Users\Nimal\source\repos\AAONEngineer\pjReheat\obj\x86\Debug\pjReheat.xml
+C:\Users\Nimal\source\repos\AAONEngineer\pjReheat\obj\x86\Debug\pjReheat.pdb
