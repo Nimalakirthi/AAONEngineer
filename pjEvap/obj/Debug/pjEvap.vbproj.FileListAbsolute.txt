@@ -1,0 +1,14 @@
+C:\Users\Nimal\source\repos\AAON\AAONEngineer\pjEvap\bin\Debug\pjEvap.dll
+C:\Users\Nimal\source\repos\AAON\AAONEngineer\pjEvap\bin\Debug\pjEvap.pdb
+C:\Users\Nimal\source\repos\AAON\AAONEngineer\pjEvap\bin\Debug\pjEvap.xml
+C:\Users\Nimal\source\repos\AAON\AAONEngineer\pjEvap\bin\Debug\pjRefProp.dll
+C:\Users\Nimal\source\repos\AAON\AAONEngineer\pjEvap\bin\Debug\pjRefProp.pdb
+C:\Users\Nimal\source\repos\AAON\AAONEngineer\pjEvap\bin\Debug\pjRefProp.xml
+C:\Users\Nimal\source\repos\AAON\AAONEngineer\pjEvap\obj\Debug\pjEvap.vbproj.AssemblyReference.cache
+C:\Users\Nimal\source\repos\AAON\AAONEngineer\pjEvap\obj\Debug\pjEvap.Resources.resources
+C:\Users\Nimal\source\repos\AAON\AAONEngineer\pjEvap\obj\Debug\pjEvap.vbproj.GenerateResource.cache
+C:\Users\Nimal\source\repos\AAON\AAONEngineer\pjEvap\obj\Debug\pjEvap.vbproj.CoreCompileInputs.cache
+C:\Users\Nimal\source\repos\AAON\AAONEngineer\pjEvap\obj\Debug\pjEvap.vbproj.CopyComplete
+C:\Users\Nimal\source\repos\AAON\AAONEngineer\pjEvap\obj\Debug\pjEvap.dll
+C:\Users\Nimal\source\repos\AAON\AAONEngineer\pjEvap\obj\Debug\pjEvap.xml
+C:\Users\Nimal\source\repos\AAON\AAONEngineer\pjEvap\obj\Debug\pjEvap.pdb

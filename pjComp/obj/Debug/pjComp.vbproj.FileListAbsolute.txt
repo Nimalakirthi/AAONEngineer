@@ -1,0 +1,9 @@
+C:\Users\Nimal\source\repos\AAON\AAONEngineer\pjComp\bin\Debug\pjComp.dll
+C:\Users\Nimal\source\repos\AAON\AAONEngineer\pjComp\bin\Debug\pjComp.pdb
+C:\Users\Nimal\source\repos\AAON\AAONEngineer\pjComp\bin\Debug\pjComp.xml
+C:\Users\Nimal\source\repos\AAON\AAONEngineer\pjComp\obj\Debug\pjComp.Resources.resources
+C:\Users\Nimal\source\repos\AAON\AAONEngineer\pjComp\obj\Debug\pjComp.vbproj.GenerateResource.cache
+C:\Users\Nimal\source\repos\AAON\AAONEngineer\pjComp\obj\Debug\pjComp.vbproj.CoreCompileInputs.cache
+C:\Users\Nimal\source\repos\AAON\AAONEngineer\pjComp\obj\Debug\pjComp.dll
+C:\Users\Nimal\source\repos\AAON\AAONEngineer\pjComp\obj\Debug\pjComp.xml
+C:\Users\Nimal\source\repos\AAON\AAONEngineer\pjComp\obj\Debug\pjComp.pdb
